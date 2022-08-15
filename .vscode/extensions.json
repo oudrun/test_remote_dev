@@ -1,0 +1,13 @@
+{
+    "recommendations":  
+        [
+        "ms-dotnettools.csharp",
+        "formulahendry.code-runner",
+        "eamodio.gitlens",
+        "ms-dotnettools.dotnet-interactive-vscode",
+        "yzhang.markdown-all-in-one",
+        "streetsidesoftware.code-spell-checker",
+        "afmicc.GetterAndSetterGenerator"
+        ]
+        
+  }

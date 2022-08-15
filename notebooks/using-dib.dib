@@ -1,0 +1,10 @@
+#!markdown
+
+Ser ikke ut til at det utgjør noen forskjell om jeg benytter **.dib** istedefor **.ipynb** extension på notebook'ene.
+
+#!csharp
+
+int a = 13;
+int b = 29;
+
+Console.WriteLine(a+b);
